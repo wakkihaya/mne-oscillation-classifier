@@ -1,0 +1,12 @@
+{
+  "Acknowledgements": "Stefan Appelhoff, Alexandre Gramfort, and Mainak Jas formatted these data to BIDS.",
+  "Authors": [
+    "Lauri Parkkonen"
+  ],
+  "BIDSVersion": "1.2.0",
+  "License": "PDDL, see: https://opendatacommons.org/licenses/pddl/",
+  "Name": "MNE-somato-data-bids",
+  "ReferencesAndLinks": [
+    "https://mne.tools/stable/overview/datasets_index.html#somatosensory"
+  ]
+}

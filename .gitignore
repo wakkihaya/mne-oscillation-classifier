@@ -1,0 +1,3 @@
+.DS_Store
+
+mne_data/MNE-somato-data/sub-01/meg/*.fif
